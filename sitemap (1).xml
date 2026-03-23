@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Home Page -->
+  <url>
+    <loc>https://www.laneducenter.com/</loc>
+    <lastmod>2025-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Courses Page -->
+  <url>
+    <loc>https://www.laneducenter.com/#courses</loc>
+    <lastmod>2025-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- DevOps Course -->
+  <url>
+    <loc>https://www.laneducenter.com/#devops</loc>
+    <lastmod>2025-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Multi-Cloud Course -->
+  <url>
+    <loc>https://www.laneducenter.com/#multicloud</loc>
+    <lastmod>2025-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- SAP Basis Course -->
+  <url>
+    <loc>https://www.laneducenter.com/#sapbasis</loc>
+    <lastmod>2025-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- SAP FICO Course -->
+  <url>
+    <loc>https://www.laneducenter.com/#sapfico</loc>
+    <lastmod>2025-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- CyberSecurity Course -->
+  <url>
+    <loc>https://www.laneducenter.com/#cyber</loc>
+    <lastmod>2025-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Placements Page -->
+  <url>
+    <loc>https://www.laneducenter.com/#placements</loc>
+    <lastmod>2025-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog Page -->
+  <url>
+    <loc>https://www.laneducenter.com/#blog</loc>
+    <lastmod>2025-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
